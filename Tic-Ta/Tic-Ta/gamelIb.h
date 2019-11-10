@@ -1,0 +1,9 @@
+#pragma once
+#include <glut.h>
+#include <iostream>
+#include <cmath>
+#include <locale>
+#include <string>
+#include "Header.h"
+#include "Check.hpp"
+#include "draw.hpp"
